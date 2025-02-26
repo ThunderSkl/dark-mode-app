@@ -109,3 +109,9 @@ dark-mode-app/
 │── package.json
 │── README.md
 ```
+
+## Link to figma design
+
+```
+https://www.figma.com/design/tN3P1P1tDN2JirUuOQVbOJ/Dark-mode-app-design?node-id=1-3&t=9MdpFpiE09tA0dvX-1
+```
